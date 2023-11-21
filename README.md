@@ -3,5 +3,5 @@
 
 ### Prior knowledge
 
-#### ml-in-cosmology GitHub repository
-[ml-in-cosmology](https://github.com/georgestein/ml-in-cosmology)
+#### ml-in-cosmology repository by George Stein
+[https://github.com/georgestein/ml-in-cosmology](https://github.com/georgestein/ml-in-cosmology)
