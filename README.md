@@ -9,3 +9,7 @@
 [https://github.com/georgestein/ml-in-cosmology](https://github.com/georgestein/ml-in-cosmology)
 
 
+### Tools
+[Harzing Publish or Perish](https://harzing.com/resources/publish-or-perish)
+
+
