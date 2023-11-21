@@ -2,7 +2,7 @@
 
 ### Prior knowledge
 
-#### machine learning for strong gravitationnal lensing section by George Stein
+#### Review section on machine learning for strong gravitationnal lensing by George Stein
 [ml-in-cosmology-strong-lensing](https://github.com/parlange/systematic-review/tree/main/ml-in-cosmology)
 
 #### ml-in-cosmology repository by George Stein
