@@ -1,2 +1,7 @@
 # systematic-review
-Systematic Review of Machine Learning Methods for Strong Lens Detection
+## Systematic Review of Machine Learning Methods for Strong Lens Detection
+
+### Prior knowledge
+
+#### ml-in-cosmology GitHub repository
+[ml-in-cosmology](https://github.com/georgestein/ml-in-cosmology)
