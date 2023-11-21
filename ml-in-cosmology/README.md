@@ -1,4 +1,6 @@
-## ml-in-cosmology
+# Strong gravitational lensing
+## [ml-in-cosmology](https://github.com/georgestein/ml-in-cosmology) by George Stein
+
 This github attempts to maintain a comprehensive list of published machine learning applications to cosmology, organized by subject matter and arxiv posting date. I've also included some more obsevational galaxy studies.
 
 Each entry contains the paper title, a simple summary of the machine learning methods used in the work, and the arxiv link. If I have missed any papers that you believe should be included please email me at george.f.stein@gmail.com or issue a pull request. 
